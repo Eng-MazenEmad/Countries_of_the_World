@@ -15,3 +15,15 @@ An automated data pipeline and exploratory data analysis project that extracts g
 * **Data Cleansing**: Inspects and resolves missing administrative data, standardizing missing text strings for regions lacking formal capitals[cite: 2].
 * **Feature Engineering**: Computes derived metrics including population density ($\text{population} / \text{area}$) and regional aggregations[cite: 2].
 * **Interactive Dashboarding**: Employs `plotly.express` to generate interactive bar charts showcasing top populated countries and spatial distribution scatter plots[cite: 2].
+
+---
+
+<a id="viz"></a>
+
+![Viz1](viz/Countries_of_the_World_viz.png)
+
+<div align="center">
+
+### Smallest Nations, Population Densities & Major Populations
+*Analysis of the top smallest countries by area via scatter plots, population density rankings across high-density regions, and demographic breakdowns for nations with populations exceeding 100 million.*
+</div>
